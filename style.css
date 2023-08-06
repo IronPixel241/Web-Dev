@@ -1,0 +1,7 @@
+/* Navigation bar  */
+#navbar{
+    display: flex;
+}
+.item{
+    text-decoration: none;
+}
